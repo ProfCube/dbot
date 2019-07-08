@@ -1,0 +1,17 @@
+{ 
+    "faq": "https://crates.hazebyte.com/#/reference/faq",
+    "request": [
+        "**Asking for help** #plugin-support",
+        "Logs or configurations may be posted in the following:",
+        "https://hastebin.com/",
+        "https://pastebin.com/",
+        "",
+        "We will need the following:",
+        ":newspaper2: Crate.yml: ",
+        ":newspaper2: Logs: ",
+        ":white_circle:  CrateReloaded version `/about cratereloaded`: ",
+        ":large_blue_circle: Server version:",
+        " :black_circle: Expected behavior:",
+        ":red_circle: Actual behavior:"
+    ]
+}
